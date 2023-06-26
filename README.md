@@ -1,4 +1,6 @@
-# trabalhoindividualmodulo3
+# Banco de dados 
+## Modelagem de dados
+---
 No modulo 3 realizei o trabalho de desenvolver um banco de dados que irá armazenar dados importantes que será 
 utilizados pelo sistema da RESILIADATA.
 
@@ -31,6 +33,10 @@ Os campos Nome, Cargo e ID_Empresa armazenam informações relevantes sobre cada
 O campo ID_Empresa é uma chave estrangeira que referencia o ID da tabela de Empresas, estabelecendo uma relação entre os colaboradores e suas respectivas empresas.
 Essa é a estrutura básica do banco de dados proposto, onde as tabelas foram projetadas para armazenar informações sobre empresas parceiras, tecnologias utilizadas por elas e colaboradores associados. É importante lembrar que essa é apenas uma sugestão e você pode personalizar o banco de dados de acordo com as necessidades específicas do sistema RESILIADATA.
 
-sites usados:
-https://app.diagrams.net/#G1fhjZxS8hVokBoKlNAesJ_k0MHU1ZL3_o
-BLOCO DE NOTAS PRA ANEXAR AS RESPOSTAS.
+---
+
+Sobre mim:
+
+* Linkedin: www.linkedin.com/in/rodrigo-marques021/
+
+* Email: digao020797@gmail.com
